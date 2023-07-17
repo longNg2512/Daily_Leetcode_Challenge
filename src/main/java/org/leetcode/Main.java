@@ -2,8 +2,10 @@ package org.leetcode;
 
 public class Main {
     public static void main(String[] args) {
-        _1295_find_numbers_with_even_number_of_digits findNums = new _1295_find_numbers_with_even_number_of_digits();
-        int[] nums = {1, 22, 364, 9999, 39, 222, 868958};
-        System.out.println(findNums.findNumbers(nums));
+        _88_merge_sorted_array mergeSortedArray = new _88_merge_sorted_array();
+        int[] nums1 = {4, 5, 6, 0, 0, 0};
+        int[] nums2 = {1, 2, 3};
+        mergeSortedArray.merge(nums1, 3, nums2, 3);
+        System.out.println("Done!");
     }
 }
