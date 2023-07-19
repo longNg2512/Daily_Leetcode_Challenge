@@ -24,7 +24,7 @@ public class _88_merge_sorted_array {
                 break;
             }
         }
-        // Nếu không tìm được phần tử k, chèn ai vào cuối mảng nums1
+// Nếu không tìm được phần tử k, chèn ai vào cuối mảng nums1
         if (!timDuocK) {
             nums1[m] = ai;
         }
