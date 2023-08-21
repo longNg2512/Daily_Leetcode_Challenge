@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b0c71ad-850b-46c5-809d-1e82b7639cfa" name="Changes" comment="feat: completed #27_2 #88_2 #387 #1672">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/_insertion_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/_selection_sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/_414_third_maximum_number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/leetcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/Main.java" afterDir="false" />
     </list>
@@ -31,6 +29,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-17/lib/src.zip!/java.base/java/lang/Thread.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -51,13 +52,16 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Workspace/Java/Daily_Leetcode_Challenge&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Acer/Desktop/Daily_Leetcode_Challenge&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Color Scheme Font&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -106,6 +110,10 @@
       <workItem from="1690465275415" duration="808000" />
       <workItem from="1690770763862" duration="4801000" />
       <workItem from="1690791993759" duration="41000" />
+      <workItem from="1690855931326" duration="8266000" />
+      <workItem from="1690872563706" duration="33000" />
+      <workItem from="1690872631238" duration="1388000" />
+      <workItem from="1692334562325" duration="643000" />
     </task>
     <task id="LOCAL-00001" summary="feat: completed #88">
       <option name="closed" value="true" />

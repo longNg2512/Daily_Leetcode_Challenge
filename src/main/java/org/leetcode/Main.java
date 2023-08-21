@@ -2,8 +2,8 @@ package org.leetcode;
 
 public class Main {
     public static void main(String[] args) {
-        int[] nums = {1, 2, 4, 7, 6, 0, 2};
-        _selection_sort selectionSort = new _selection_sort();
-        selectionSort.selectionSort(nums);
+        int[] nums = {2, 2, 1, 3};
+        _414_third_maximum_number thirdMaximumNumber = new _414_third_maximum_number();
+        System.out.println(thirdMaximumNumber.thirdMax(nums));
     }
 }
