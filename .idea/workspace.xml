@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b0c71ad-850b-46c5-809d-1e82b7639cfa" name="Changes" comment="feat: completed #27_2 #88_2 #387 #1672">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/_bubble_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/_Demo_Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/leetcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/Main.java" afterDir="false" />
     </list>
@@ -29,13 +30,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="useMavenConfig" value="true" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2SOINP8W3iNJKY1xu6RSBxxv4y3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -51,13 +48,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/Workspace/Java/Daily_Leetcode_Challenge",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -104,6 +102,9 @@
       <workItem from="1690464984655" duration="212000" />
       <workItem from="1690465203596" duration="66000" />
       <workItem from="1690465275415" duration="808000" />
+      <workItem from="1690611722641" duration="1382000" />
+      <workItem from="1692299279947" duration="216000" />
+      <workItem from="1697640616426" duration="1496000" />
     </task>
     <task id="LOCAL-00001" summary="feat: completed #88">
       <option name="closed" value="true" />
